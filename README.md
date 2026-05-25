@@ -6,12 +6,9 @@
 
 <br />
 
-<div align="center">
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+a+Creative+Software+Engineer;Building+stunning+web+applications;Welcome+to+my+digital+universe!🪐" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Tech+Wrangler;Code+%26+Data+Janitor;Enterprise+Architect)](https://git.io/typing-svg)
 
+<div align="center">
   <!-- Profile Visitor Counter & Status Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=lillie-dae&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
