@@ -6,7 +6,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Tech+Wrangler;Code+%26+Data+Janitor;Enterprise+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Tech+Wrangler;Code+%26+Data+Janitor;Enterprise+Architect)]()
 
 <div align="center">
   <!-- Profile Visitor Counter & Status Badges -->
