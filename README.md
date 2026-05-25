@@ -58,11 +58,11 @@ I am a **Tech Wrangler, Code & Data Janitor, and Enterprise Architect**. I excel
   <tr>
     <td valign="top" width="50%">
       <h4>🏗️ Architectural Patterns</h4>
-      <img src="https://img.shields.io/badge/Architecture-Microservices-8E44AD?style=for-the-badge" alt="Microservices" />
-      <img src="https://img.shields.io/badge/Architecture-Mono%20Repos-2980B9?style=for-the-badge" alt="Mono Repos" />
-      <img src="https://img.shields.io/badge/Architecture-Vertical%20Slice-27AE60?style=for-the-badge" alt="Vertical Slice" />
-      <img src="https://img.shields.io/badge/Architecture-Event%20Driven-D35400?style=for-the-badge" alt="Event-Driven Workflows" />
-      <img src="https://img.shields.io/badge/Architecture-AI%20Driven-16A085?style=for-the-badge" alt="AI-Driven Workflows" />
+      <img src="https://img.shields.io/badge/Microservices-8E44AD?style=for-the-badge" alt="Microservices" />
+      <img src="https://img.shields.io/badge/Mono%20Repos-2980B9?style=for-the-badge" alt="Mono Repos" />
+      <img src="https://img.shields.io/badge/Vertical%20Slice-27AE60?style=for-the-badge" alt="Vertical Slice" />
+      <img src="https://img.shields.io/badge/Event%20Driven-D35400?style=for-the-badge" alt="Event-Driven Workflows" />
+      <img src="https://img.shields.io/badge/AI%20Driven-16A085?style=for-the-badge" alt="AI-Driven Workflows" />
     </td>
     <td valign="top" width="50%">
       <h4>🚀 DevOps & Tools</h4>
